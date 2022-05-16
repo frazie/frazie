@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/_frazie_" target="blank"><img src="https://img.shields.io/twitter/follow/_frazie_?logo=twitter&style=for-the-badge" alt="_frazie_" /></a> </p>
 
-- 🔭 I’m currently working on [Pet hotel](https://linhu-pethotel.netlify.app/)
-
 - 🌱 I’m currently learning **javascript and associated packages**
 
 - 👨‍💻 All of my projects are available at [https://frazier-se.netlify.app/](https://frazier-se.netlify.app/)
@@ -15,7 +13,7 @@
 
 - 📫 How to reach me **ofrazy@gmail.com**
 
-- ⚡ Fun fact **i think i love motorbikes and the outdoors**
+- ⚡ Fun fact ** i love motorbikes and the outdoors**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
