@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/_frazie_" target="blank"><img src="https://img.shields.io/twitter/follow/_frazie_?logo=twitter&style=for-the-badge" alt="_frazie_" /></a> </p>
 
-- 🌱 I’m currently learning **javascript, node.js, Express, MongoDB and React (MERN)**
+- 🌱 I’m currently growing and building using **javascript, node.js, Express, MongoDB and React (MERN)**... JAMSTACK Baby!!
 
 - 👨‍💻 All of my projects are available at [https://frazier-se.netlify.app/](https://frazier-se.netlify.app/)
 
