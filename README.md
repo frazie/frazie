@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Frazier</h1>
-<h3 align="center">A passionate fullstack software developer with a focus on javascript</h3>
+<h3 align="center">A passionate fullstack software developer who likes code and growth</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frazie" alt="frazie" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/_frazie_" target="blank"><img src="https://img.shields.io/twitter/follow/_frazie_?logo=twitter&style=for-the-badge" alt="_frazie_" /></a> </p>
 
-- 🌱 I’m currently growing and building using **javascript, node.js, Express, MongoDB and React (MERN)**... JAMSTACK Baby!!
+- 🌱 I’m currently growing and building using **javascript, node.js, Express, MongoDB, React, Typescript and NextJs**
 
-- 👨‍💻 All of my projects are available at [https://frazier-se.netlify.app/](https://frazier-se.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://frazier-se.vercel.app/](https://frazier-se.vercel.app/)
 
-- 💬 Ask me about **javascript**
+- 💬 Ask me about **javascript and typescript**
 
-- 📫 How to reach me **ofrazy@gmail.com**
+- 📫 How to reach me **frazierabongo@gmail.com**
 
 - ⚡ Fun fact ** i love motorbikes and the outdoors**
 
